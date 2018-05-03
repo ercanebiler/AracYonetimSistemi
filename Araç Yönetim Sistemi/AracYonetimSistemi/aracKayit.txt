@@ -1,0 +1,11 @@
+
+otomobil1,oepl,dizel,60,4,4,10000,1998,siyah
+otomobil2,bmw,benzin,190,5,4,40000,2005,yesil
+ucangemi1,ergo,bor,650,4,3,50000,2015,beyaz
+otomobil3,mercedes,lpg,0,5,4,35000,1995,kahve
+ucak1,ucakkk,asd,110,50,3,150000,2014,mavi
+ucangemi1,bilge,bilge,440,55,3,99999,2019,kirmizi
+ucak1,at,avrat,400,230,3,9584,2958,gri
+ucangemi1,atkafasi,meyvesuyu,280,40,3,5000,1996,siyah
+ucangemi2,bilgemm,su,275,40,4,4,4,turuncu
+ucangemi2,opel,sat,0,4,4,15000,1995,ot
